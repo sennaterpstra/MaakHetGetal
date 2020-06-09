@@ -4,16 +4,6 @@
         <meta charset="UTF-8">
         <meta name="keywords" content="rekenen, Maak_het_getal, sommen, plus, basisschool, onderwijs, onderwijsspel">
         <meta name="description" content="Reken spel | Maak het getal! | Kies de juiste 2 getallen die samen het antwoord maken | Plus sommen |">
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153551943-1"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'UA-153551943-1');
-        </script>
-        <meta name="google-site-verification" content="4J-u2kp9-0HDR-GjzlsHBjtkZs9o4ofno7EDrlqcCd8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
         <title>RekenenMaakHetGetal</title>
