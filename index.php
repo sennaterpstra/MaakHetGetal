@@ -18,8 +18,8 @@
         <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
         <!--javascript/css files-->
         <link type="text/css" rel="stylesheet" href="css/stijl.css">
-        <script type="text/javascript" src="js/score-5.js"></script>
-        <script type="text/javascript" src="js/timer-5.js"></script>
+        <script type="text/javascript" src="js/score.js"></script>
+        <script type="text/javascript" src="js/timer.js"></script>
         <script type="text/javascript" src="js/unStringify.js"></script>
         <script type="text/javascript" src="js/all.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
