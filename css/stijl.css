@@ -1,0 +1,39 @@
+html, body
+{
+    font-family: 'Ubuntu';
+}
+@media (max-width: 1024px) {
+    .container {
+        width: 100% !important;
+        padding: 0px;
+    }
+}
+ul.pagination 
+{
+    margin: 0 auto;
+}
+table td 
+{
+    padding: 3px;
+}
+.numbtn 
+{
+    width: 70px;
+    height: 60px;
+    font-size: 20px;
+}
+.sum a 
+{ 
+    font-size: 30px;
+}
+.centered 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 93px;
+}
+.no-click 
+{
+    pointer-events: none;
+}
