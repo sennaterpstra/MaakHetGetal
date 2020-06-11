@@ -280,16 +280,9 @@ class getExercise extends all
 		/*
             Hier wordt een functie aangeroepen waaruit alle functies die vanuit events(mouseevents inputinevents) 
             worden aangeroepen gedefieerd.
-            Het is een goede gewoonte om elke functie te beginnen met het definieren van een variabele waarin de 
-            hele klasse wordt gedefinieerd, in dit geval de letter s, het woordje this om de hele klasse aan te roepen, 
-            is niet altijd gewenst.
         */
         var s = this;
-        /*
-            Dit is een voorbeeld van een mouseevent die uitgevoerd wordt als je op element klikt met het id 'button'.
-            Verschillende soorten mouseevents (mouseover, mouseout, mouseenter, mouseleave, mousedown, mouseup, etc.) kunnen
-            hier worden gebruikt.
-        */
+        
         //start en restart
         $(document).on('click','.start a',function()
         {
@@ -343,10 +336,6 @@ class getExercise extends all
         });
         $(document).on('click','#button',function(e)
         {
-            /*
-                hier is het gebruik van het woordje this niet gewenst als je hier this gebruikt roep je het event aan en niet 
-                de hele klasse indien je dat zou willen. Hier moet je zodoende de variabele s gebruiken.
-            */
             console.log(s.SOMETHING);
         });
 
